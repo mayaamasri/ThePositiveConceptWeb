@@ -12,9 +12,6 @@
 ## Overview
 
 Welcome to The Positive Concept, an eCommerce website designed to elevate your lifestyle with motivational frames, customized cups, daily to-do lists, and yearly planners. This comprehensive proposal outlines our plan to establish a dynamic and engaging online presence for your small business.
-
-Prepared by: Maya Masri  
-Prepared for: Dr. Charbel Fakhry  
   
 ## Technologies
 
